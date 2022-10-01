@@ -38,4 +38,5 @@ cd ~
 # 默认5Mbps
 sh tc.sh 24
 echo ========================
-echo "完成"
+echo "完成 hello word"
+
